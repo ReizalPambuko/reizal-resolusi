@@ -1,3 +1,4 @@
 REIZAL-RESOLUSI
 -saya ingin konsisten belajar terus supaya jago
-ingin kolaborasi bersama developer expert
+-ingin kolaborasi bersama developer expert
+-ingin membuat aplikasi chatting realtime
