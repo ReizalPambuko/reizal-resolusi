@@ -1,3 +1,5 @@
 Rencana belajar
 -React js
+*ES6
+*Testing
 -Next js
