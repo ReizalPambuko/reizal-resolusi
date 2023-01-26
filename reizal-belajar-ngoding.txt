@@ -5,3 +5,4 @@ Rencana belajar
 -Next js
 -security
 -vue js
+-angular
